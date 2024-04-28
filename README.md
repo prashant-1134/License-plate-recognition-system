@@ -1,6 +1,6 @@
 # License-plate-recognition-system
 Introduction:
-This is a Python implementation of a license plate recognition system using OpenCV and Tesseract OCR. The system is designed to detect license plates in images and extract the alphanumeric characters from them. Additionally, it tries to determine the state associated with the license plate number based on predefined state codes.
+This is a Python implementation of a license plate recognition system using OpenCV and Tesseract OCR. The system is designed to detect license plates in images and extract the alphanumeric characters from them. Additionally, it tries to determine the state and RTO office associated with the license plate number based on predefined state and RTO codes.
 
 Requirements:
 - Python 3.x
